@@ -1,0 +1,89 @@
+ids,pricing_period,monthly_revenue,hrs_worked_per_week,platfrom,domain_type,year_created,page_views,unique_users,ids,niche,monetization,price,net,multiple
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,44985,"Automotive, Home, Lifestyle, Outdoors","eCommerce, Amazon FBA",35287,1138,38
+46200,12,45166,30," Amazon FBA"," .com",2017,28521,18438,46200,Culinary,"Amazon FBA",1084957,30138,29
+46293,12,50103,30," Other"," .com",2005,54603,18042,46293,"Amazon KDP","eCommerce, DropShipping, Amazon FBA",978763,31573,27
+46437,12,25439,560," Amazon FBA"," .com",2017,11437,7730,46437,"Apparel & Accessories","Amazon FBA",848199,30293,28
+46538,12,30872,3060," Other"," .com",2007,128516,34091,46538,"Digital Product, DropShipping",SaaS,2000931,62529,64
+46603,12,31332,30," WordPress"," .com",2012,33700,23082,46603,"Amazon FBA","Application, Affiliate, Subscription",1496745,45356,33
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,46610,"Affiliate, Amazon Associates","Amazon KDP",1547094,45503,31
+46660,12,45205,60," Other, Amazon FBA"," .com",2015,36168,26453,46660,"Affiliate, Amazon Associates, Display Advertising","Amazon FBA, eCommerce",908622,22716,33
+46740,6,22793,6081," WordPress"," .com",2016,552593,388312,46740,"Food & Beverages","Affiliate, Amazon Associates, Display Advertising",1153105,48046,40
+46775,12,214723,11024," Other"," .com",2016,84788,32407,46775,Electronics,Subscription,3725152,98030,30
+47018,12,17785,302," Amazon FBA, Shopify"," .com, .co, .uk",2015,5938,4033,47018,Children,"Amazon FBA",690967,19194,24
+47081,12,187056,301," Shopify"," .com",2017,293641,92982,47081,Business,"eCommerce, DropShipping",1150026,17969,28
+47101,12,176471,90," Amazon FBA"," .com, .uk, .ca, .it, .fr, .de, .es, .jp",2016,38479,25765,47101,Subscription,"Amazon FBA",2233448,74448,33
+47105,12,47740,90," Amazon FBA"," .com, .ca",2017,9289,6126,47105,Beauty,"Amazon FBA",1087845,32965,30
+47111,12,14714,30," Other"," .au",2017,10862,2477,47111,Finance,"Info Product, Service",952893,23822,27
+47114,12,54285,302," Amazon FBA, Other"," .uk",2017,17138,12418,47114,"Lead Gen, Affiliate","Amazon FBA",952893,23822,27
+47187,12,10105,30," Amazon FBA, Other"," .com, .au",2016,5802,4099,47187,"Amazon FBA","Amazon FBA",454026,15656,28
+47198,12,260898,306," Amazon FBA"," .com, .uk",2017,44963,29083,47198,"Amazon Associates, Affiliate","Amazon FBA",35287,1138,36
+47214,12,145529,30," Shopify"," .com",2018,206418,81980,47214,"Apparel & Accessories",eCommerce,1897387,52705,33
+47242,12,46305,30," WordPress"," .com",2017,440285,316230,47242,"Health & Fitness, Food & Beverages","Affiliate, Amazon Associates",2233448,74448,34
+47249,12,4993,30," Amazon FBA, Other"," .com",2018,3581,2454,47249,Automotive,"Amazon FBA",485738,15669,36
+47253,8,4624,30," WordPress"," .com",2018,75675,42895,47253,Automotive,"Display Advertising, Amazon Associates",763640,23864,32
+47275,12,67711,6030," Amazon FBA"," .com",2018,20325,13823,47275,"Amazon Associates, Affiliate, Display Advertising","Amazon FBA",983519,25882,24
+47287,12,2644,30," WordPress"," .com",2018,52806,41195,47287,"Amazon FBA","Amazon Associates",499816,16661,29
+47353,12,3676,304," WordPress"," .com",2018,148372,72799,47353,"Amazon FBA, Amazon Merch","Amazon Associates",690967,19194,32
+47375,12,26919,60," WordPress"," .com",2018,561995,411512,47375,"Survival & Security","Amazon Associates, Affiliate, Display Advertising",1547094,45503,38
+47378,12,1772,30," Other"," .app",2017,28171,9728,47378,"Apparel & Accessories",Affiliate,420025,15556,36
+47396,12,73650,90," Other, Amazon FBA"," .com, .uk, .ca",2017,30585,22414,47396,eCommerce,"Amazon FBA, Amazon Merch",1135573,22711,36
+47439,12,1388,30," WordPress"," .com",2015,33787,25143,47439,"Amazon FBA","Amazon Associates",416882,17370,32
+47458,12,2645,30," WordPress, Other"," .com",2017,97185,62403,47458,"Occasions & Gifts","Amazon Associates",499816,16661,32
+47459,12,1208482,6090," Amazon FBA, Other"," .com, .uk",2016,212703,144408,47459,"Amazon Associates","Amazon FBA, eCommerce",43233,1351,42
+47473,8,6602,45," WordPress"," .com",2017,93284,60139,47473,"eCommerce, DropShipping","Digital Product, Display Advertising",848199,30293,29
+47474,12,10849,30," Amazon FBA"," .com",2018,6177,4299,47474,Electronics,"Amazon FBA",416882,17370,22
+47479,12,888,30," WordPress, Other"," .com",2015,19851,15478,47479,"eCommerce, DropShipping, Amazon FBA","Amazon Associates",339485,12574,35
+47489,12,8049,302," Other"," .com",2016,44343,2144,47489,Romance,Application,978763,31573,46
+47494,12,7455,30," Amazon FBA"," .com",2018,7496,4313,47494,"Amazon FBA","Amazon FBA",420025,15556,26
+47531,12,3329,302," WordPress"," .com",2017,40209,32715,47531,DropShipping,"Amazon Associates",763640,23864,36
+47580,12,5443,60," WordPress"," .com",2016,19521,13712,47580,Sports,Affiliate,817422,28187,36
+47581,12,72697,60," WordPress"," .com",2014,195351,36368,47581,"Health & Fitness, Beauty","Affiliate, Amazon Associates, Info Product, Subscription, Display Advertising",2411665,66991,40
+47588,12,56999,30," Other"," .com",2016,8810,5210,47588,"Application, Affiliate, Subscription",Subscription,919016,27849,25
+47601,12,34271,30," Amazon FBA, Other"," .com",2018,18750,14274,47601,"News & Education","Amazon FBA, eCommerce, Display Advertising",1122584,25513,28
+47608,12,25361,30," WordPress"," .com",2014,2517351,1257804,47608,"eCommerce, Amazon FBA, Other","Display Advertising",1153105,48046,36
+47630,47630,47630,47630," WordPress"," .com",47630,47630,47630,47630,"Amazon FBA, Amazon Merch, eCommerce","Amazon Associates",431631,13488,32
+47639,12,26342,30," WordPress"," .com",2015,62607,44097,47639,"Affiliate, Amazon Associates, Info Product, Subscription, Display Advertising","Amazon Associates, Affiliate",1997930,49948,44
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,47669,"Religion & Spirituality","Amazon KDP, Amazon FBM, Amazon FBA, Amazon Merch",893835,24829,30
+47757,12,35251,302," Other, Amazon FBA"," .com",2019,11532,8143,47757,"Health & Fitness","Amazon FBA",919016,27849,26
+47774,6,4285,302," WordPress"," .com",2019,14774,9410,47774,Equipment,Affiliate,574056,20502,25
+47807,47807,47807,47807," Other"," .com",47807,47807,47807,47807,"eCommerce, Amazon FBA","Digital Product, DropShipping",3725152,98030,32
+47823,9,30162,602," WordPress"," .com",2018,498630,374623,47823,"SaaS, Affiliate, Application","Amazon Associates, Display Advertising",1897387,52705,36
+47834,12,31601,495," Other"," .au",2000,209758,55096,47834,"News & Education",eCommerce,1997930,49948,50
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,47835,"Amazon Associates, Display Advertising","Amazon FBA",1084957,30138,26
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,47864,eCommerce,"Amazon FBA, eCommerce",1087845,32965,31
+47887,10,652,30," WordPress"," .net, .com",2015,68263,48590,47887,"News & Education, Business","Display Advertising, Other, Amazon Associates",303675,11247,30
+47891,12,99256,302," WordPress"," .com",2014,318538,137472,47891,"Occasions & Gifts","Lead Gen, Affiliate",1496745,45356,40
+47897,9,192383,302," Shopify"," .com",2018,106794,11363,47897,"Amazon FBA","SaaS, Affiliate, Application",2411665,66991,36
+47909,12,2833,302," WordPress"," .com, .net",2013,324618,196144,47909,"Occasions & Gifts","Other, Display Advertising",564786,20171,33
+47915,12,272028,126," Shopify, Amazon FBA"," .com",2010,1693420,503794,47915,"Health & Fitness","eCommerce, Amazon FBA, Other",2000931,62529,24
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,47947,"Pet Care","Amazon FBA",908622,22716,29
+47961,4,2231,430," Other"," .com",2018,5018,1466,47961,Gaming,"Info Product",364995,7935,32
+47964,12,47596,302," Amazon FBA, Other"," .com",2017,36455,26442,47964,Gaming,"Amazon FBA",983519,25882,27
+47972,12,6016,90," WordPress"," .biz, .com",2017,62159,53995,47972,"Display Advertising","Amazon Associates",893835,24829,36
+48005,8,1080,30," WordPress"," .com",2019,173360,12327,48005,Application,"Display Advertising",364995,7935,31
+48006,12,5639,30," Shopify"," .com",2019,42336,9372,48006,"Amazon FBA, eCommerce, Display Advertising","Digital Product",574056,20502,31
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,48014,"Survival & Security","Amazon FBA, Amazon KDP, eCommerce",48014,48014,48014
+48016,7,2147,30," WordPress"," .com",2018,27147,19536,48016,"Health & Fitness","Amazon Associates, Affiliate",454026,15656,35
+48035,12,246297,230," Shopify"," .com",2016,219553,67025,48035,Entertainment,DropShipping,1135573,22711,32
+48047,10,2338,302," WordPress"," .com",2016,39408,28287,48047,"Amazon FBA, eCommerce","Amazon Associates",485738,15669,35
+48080,12,110137,30," Shopify"," .au, .com",2017,203159,36493,48080,SaaS,DropShipping,1150026,17969,29
+48090,6,2236,302," WordPress"," .com",2018,30963,16666,48090,Electronics,"Amazon Associates, Display Advertising",446923,17189,28
+48093,8,6359,302," WordPress"," .com",2019,26589,20658,48093,DropShipping,Affiliate,817422,28187,25
+48094,7,2610,30," WordPress"," .com",2018,23991,16457,48094,"Amazon FBA","Amazon Associates, Display Advertising",564786,20171,34
+48108,9,1824,30," WordPress"," .com",2018,15403,11163,48108,"Amazon FBA","Amazon Associates",446923,17189,33
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,48140,"Amazon Associates, Affiliate","Amazon FBA",1122584,25513,28
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,48146,"Amazon FBA","Amazon FBA, Amazon Merch, eCommerce",615167,18093,32
+48155,6,918,30," WordPress"," .com",2016,13589,9809,48155,Jewelry,"Amazon Associates",339485,12574,34
+48163,4,1000,30," Other"," .com",2018,244,99,48163,Home,"Lead Gen",43233,1351,26
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,48167,"Art, Hobbies","Affiliate, Amazon Associates",431631,13488,33
+48170,5,1148,302," WordPress"," .com",2018,12675,10296,48170,"Amazon Associates, Affiliate, Display Advertising","Amazon Associates, Affiliate",144548,4015,31
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,48171,Home,"Amazon FBA",109156,3308,29
+48231,9,4297,304," WordPress"," .com",2018,36644,25205,48231,Electronics,"Amazon Associates, Affiliate, Display Advertising",144548,4015,36
+48242,7,1005,30," WordPress"," .com",2018,11394,8678,48242,"Affiliate, Amazon Associates","Amazon Associates",109156,3308,27
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,48271,"Occasions & Gifts","Amazon FBA",615167,18093,34
+48272,12,1402,30," WordPress"," .reviews, .com",2015,37266,25096,48272,"Occasions & Gifts","Amazon Associates, Affiliate",48272,48272,48272
+48284,10,13296,430," Other"," .com",2018,30371,7209,48284,"Amazon FBA",DropShipping,48284,48284,48284
+48298,4,4302,302," WordPress"," .org",2019,55584,44621,48298,"Health & Fitness","Affiliate, Amazon Associates, Display Advertising",48298,48298,48298
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,48322,eCommerce,"Amazon FBA",48322,48322,48322
+48332,12,3062,30," WordPress"," .com",2016,110435,75976,48332,"Amazon FBA, Amazon KDP, eCommerce","Affiliate, Amazon Associates, Digital Product, Display Advertising",48332,48332,48332
+48364,9,153727,151," Shopify, Amazon FBA"," .com",2019,1693420,503794,48364,"Apparel & Accessories",eCommerce,48364,48364,48364
