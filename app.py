@@ -18,7 +18,7 @@ import os, urllib, cv2
 # https://pycaret.org/ for documentation
 
 # Load trained model for predictions
-model = load_model('ScrapeOB_lr_model_0904')
+model = load_model('ScrapeOB_lr_model_0907')
 
 # define function to call 
 def predict(model, input_df):
@@ -29,6 +29,7 @@ def predict(model, input_df):
 # main functino starts here
 
 def run():
+    st.title('Growth Hackers: Online Business Price Predictor')
     from PIL import Image
     # gets images to populate
     image = Image.open('ecomm.jpg')
@@ -43,11 +44,11 @@ def run():
     )
 
     st.sidebar.info('This app is created to predict prices for Online Business')
-    st.sidebar.success('https://github.com/alxanderpierre')
+    st.sidebar.success('https://github.com/alxanderpierre/growth_hackers')
 
     st.sidebar.image(image_building)
 
-    st.title('Growth Hackers: Online Business Predictor App')
+    
     st.markdown('This project is for predicting 🔮 sell prices 💰 of Online Businesses 🖥 . As well as predicting Growth Targets📈📊for Online Business owners 👩‍💻👨‍💻.')
     st.markdown('What are Growth Targets 🎯 you may ask ?? 🤔. Simple, it is a target for a business to reach in order to sell at a particular price 😁.')
     
